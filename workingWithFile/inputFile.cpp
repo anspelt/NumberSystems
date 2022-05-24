@@ -5,7 +5,7 @@
 using namespace std;
 
 void EnteringNumberIntoFile(string outputNumber) {
-    ofstream numberEntry ("translate.txt", ofstream::app);
+    ofstream numberEntry("translate.txt", ofstream::app);
 
     numberEntry << outputNumber;
 
