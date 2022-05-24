@@ -1,0 +1,7 @@
+/⠀Initial⠀number⠀system
+3
+/⠀Number
+12002101
+/⠀Translate⠀to
+16
+/⠀Result
